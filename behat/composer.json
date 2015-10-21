@@ -1,0 +1,10 @@
+{
+  "name": "Behat tests for https://www.q24u.nl",
+  "description": "Functional testing for https://www.q24u.nl site.",
+  "require": {
+    "drupal/drupal-extension": "~3.0"
+  },
+  "config": {
+    "bin-dir": "bin/"
+  }
+}
